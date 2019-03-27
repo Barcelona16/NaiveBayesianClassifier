@@ -1,0 +1,6 @@
+name 王起旺
+student number 2016050029
+tel 18510315320
+emails wqw16@mails.tsinghua.edu.cn
+
+数据集已经划分好，运行编译train.py即可，如需测试可修改train(sample,laplace)中的参数即可。
